@@ -5,6 +5,7 @@ MySQL-python==1.2.5
 PAM==0.4.2
 PIL==1.1.7
 Pillow==2.3.0
+PyMySQL==0.7.2
 PyYAML==3.11
 Pygments==1.6
 SQLAlchemy==0.8.4
@@ -17,6 +18,7 @@ apt-xapian-index==0.45
 argparse==1.2.1
 astroid==1.0.1
 backports-abc==0.4
+backports.ssl-match-hostname==3.5.0.1
 certifi==2015.9.6.2
 chardet==2.0.1
 click==6.3
@@ -80,7 +82,7 @@ supervisor==3.2.2
 system-service==0.1.6
 thrift==0.9.2
 tldr.py==0.5.0
-tornado==2.4.1
+tormysql==0.2.2
 uTidylib==0.2
 unity-lens-photos==1.0
 unity-singlet==0.2.2
